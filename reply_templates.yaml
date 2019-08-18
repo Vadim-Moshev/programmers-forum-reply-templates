@@ -17,7 +17,7 @@ templates:
       Вы не перепутали "помогите" и "сделайте за меня"?
       $noSpoonfeeding$
 
-  - name: Not a homework solver
+  - name: ТУТ НЕ РЕШАТЕЛЬ ЗАДАЧ
     content: |
       Тут не решатель задач.
       $noSpoonfeeding$
