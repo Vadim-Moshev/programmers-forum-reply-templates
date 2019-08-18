@@ -6,7 +6,7 @@ templates:
       $sep$
       [B][COLOR="Red"]Используйте тег [noparse][CODE][/noparse] (кнопка [noparse][CODE][/noparse] в форме сообщения) при вставке кода на форум.[/COLOR] [URL="http://www.programmersforum.ru/showpost.php?p=1497723&postcount=3"]Подробнее в FAQ[/URL][/B]
 
-  - name: ОФОРМЛЯЙТЕ КОД
+  - name: ОФОРМЛЯЙТЕ КОД.
     action: append
     content: |
       $sep$
