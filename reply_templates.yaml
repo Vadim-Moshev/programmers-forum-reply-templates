@@ -65,3 +65,8 @@ templates:
       $sep$[B][COLOR="Red"]
 
       [/COLOR][/B]
+      
+  - name: ЭТО — РЕШЕНИЕ
+    action: prepend
+    content: |
+      [SIZE="6"][COLOR="SeaGreen"][CENTER][B]Этот пост помечен как решение[/B][/CENTER][/COLOR][/SIZE]
