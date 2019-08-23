@@ -74,9 +74,7 @@ templates:
   - name: Ссылка на решение
     action: prepend
     content: |
-      [B][COLOR="Red"]
-      Решение: 
-      [/COLOR][/B]
+      [B][COLOR="Red"]Решение: [/COLOR][/B]
       
   - name: Решение в следующем посте
     action: prepend
