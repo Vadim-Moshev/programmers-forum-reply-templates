@@ -71,15 +71,14 @@ templates:
     content: |
       [SIZE="6"][COLOR="SeaGreen"][CENTER][B]✔ Этот пост помечен как решение ✔[/B][/CENTER][/COLOR][/SIZE]
 
-
   - name: Ссылка на решение
-      action: prepend
-      content: |
-        [B][COLOR="Red"]
-        Решение: 
-        [/COLOR][/B]
-        
-   - name: Решение в след. посте
     action: prepend
     content: |
-      [B][COLOR="red"]Решение — в следующем сообщении[/COLOR][/B]
+      [B][COLOR="Red"]
+      Решение: 
+      [/COLOR][/B]
+      
+  - name: Решение в следующем посте
+    action: prepend
+    content: |
+      [B][COLOR="red"]Решение в следующем сообщении[/COLOR][/B]
