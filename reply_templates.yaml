@@ -11,6 +11,10 @@ templates:
     content: |
       $sep$
       [B][COLOR="Red"]Форматируйте код и используйте тег [noparse][CODE][/noparse] (кнопка [noparse][CODE][/noparse] в форме сообщения) при вставке кода на форум.[/COLOR] [URL="http://www.programmersforum.ru/showpost.php?p=1497723&postcount=3"]Подробнее в FAQ[/URL][/B]
+      
+  - name: НЕ ЛЕЗЬ В ЧУЖИЕ ТЕМЫ
+    content: |
+      [B]Не влазьте в чужую тему со своим вопросом, а создавайте новую[/B] 
 
   - name: No HELP
     content: |
